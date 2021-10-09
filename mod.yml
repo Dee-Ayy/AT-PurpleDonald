@@ -1,0 +1,12 @@
+title: Purple At Donald
+originalAuthor: DA
+description: made donald purple. totally nothing else was done
+assets:
+ - name: obj/N_LM010_PLY.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_LM010_PLY.mdlx
+ - name: obj/N_LM010_RTN.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_LM010_RTN.mdlx
